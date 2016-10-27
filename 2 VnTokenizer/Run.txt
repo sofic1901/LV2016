@@ -1,0 +1,3 @@
+Extract Built at Desktop and Change Path
+
+spark-submit C:\Users\tranh\Desktop\vn.vitk\target\vn.vitk-3.0.jar -i C:\Users\tranh\Desktop\all_56k.json -o C:\Users\tranh\Desktop\all_56k_tok.json -m spark://192.168.1.129:7077

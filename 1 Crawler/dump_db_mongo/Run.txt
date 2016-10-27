@@ -1,0 +1,9 @@
+== Start
+cd "C:\MongoDB\Server\3.2\bin"
+mongod.exe --config D:\MongoStore\config.txt
+
+== Restore Schema
+mongorestore.exe /v /d allvnexpress /dir:C:\Users\tranh\Desktop\dump\allvnexpress /drop
+
+== Export JSON
+mongoexport -d allvnexpress -c all -o D:/MongoStore/all.json
