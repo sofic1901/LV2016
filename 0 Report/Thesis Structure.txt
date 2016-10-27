@@ -1,0 +1,35 @@
+Abstract
+I. Introduction
+1.1. Overview
+1.2. Problem Statement - Đặt vấn đề (nhấn mạnh)
+1.3. LỊCH SỬ GIẢI QUYẾT VẤN ĐỀ
+1.4. MỤC TIÊU VÀ PHẠM VI NGHIÊN CỨU
+1.5. Solution Methodology - PHƯƠNG PHÁP THỰC HIỆN
+1.6. Structure of Thesis
+
+II. Fundamental of theories - CƠ SỞ LÝ THUYẾT
+
+2.1. ĐỒ THỊ - giới thiệu kiến thức về đồ thị
+
+2.2. MÔ HÌNH XỬ LÝ DỮ LIỆU PHÂN TÁN MAPREDUCE
+2.2.1. Giới thiệu chung
+2.2.2. Quá trình Split
+2.2.3. Quá trình Map và Shuffle
+2.2.4. Quá trình Reduce
+2.2.5. Một số bài toán ứng dụng mô hình MapReduce
+2.2.x.
+
+2.3. HADOOP - NỀN TẢNG LẬP TRÌNH THEO MÔ HÌNH MAPREDUCE
+
+2.4. TỔNG QUAN HỆ THỐNG TÌM KIẾM, trích xuất này nọ
+2.5.  xxxxxx
+
+III. Thu thập dữ liệu và xây dựng database
+3.1 Crawler - Scrapy
+3.2 VnTokenizer
+3.3 Mô hình hóa dữ liệu bằng đồ thị
+
+==========================50%=============================
+IV. Xây dựng hệ thống truy vấn và kiểm thử
+
+V. Kết luận và đề xuất
