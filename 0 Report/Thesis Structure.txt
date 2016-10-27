@@ -1,4 +1,5 @@
 Abstract
+===
 I. Introduction
 1.1. Overview
 1.2. Problem Statement - Đặt vấn đề (nhấn mạnh)
@@ -7,6 +8,7 @@ I. Introduction
 1.5. Solution Methodology - PHƯƠNG PHÁP THỰC HIỆN
 1.6. Structure of Thesis
 
+===
 II. Fundamental of theories - CƠ SỞ LÝ THUYẾT
 
 2.1. ĐỒ THỊ - giới thiệu kiến thức về đồ thị
@@ -24,12 +26,15 @@ II. Fundamental of theories - CƠ SỞ LÝ THUYẾT
 2.4. TỔNG QUAN HỆ THỐNG TÌM KIẾM, trích xuất này nọ
 2.5.  xxxxxx
 
+===
 III. Thu thập dữ liệu và xây dựng database
 3.1 Crawler - Scrapy
 3.2 VnTokenizer
 3.3 Mô hình hóa dữ liệu bằng đồ thị
 
 ==========================50%=============================
+===
 IV. Xây dựng hệ thống truy vấn và kiểm thử
 
+===
 V. Kết luận và đề xuất
